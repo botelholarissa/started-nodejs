@@ -14,8 +14,8 @@ app.listen(PORT, function () {
 
 const books = [
     {
-        name : 'Harry Potter',
-        autor : 'JK',
+        name : 'Um defeito de cor',
+        autor : 'Ana Maria Gonçalves',
         id : 1
     }
 ]
